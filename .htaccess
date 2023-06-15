@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /MSU_DORM
+RewriteCond $1 !^(index\.php|css|email_templates|font-awesome|fonts|img|js|locales|images|file-system|PHPExcel|images-manager)
+RewriteRule ^(.*)$ index.php [L]

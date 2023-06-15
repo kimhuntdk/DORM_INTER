@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Cookie Code</title>
+	
+<link rel="stylesheet" type="text/css" href="stylecookie.css" />
+	
+</head>
+
+<body>
+<script type="text/javascript" src="scriptcookie.js"></script>
+<script>
+gdprCookieNotice({
+  locale: 'th', //This is the default value
+  timeout: 500, //Time until the cookie bar appears
+  expiration: 30, //This is the default value, in days
+  domain: '.nold.io', //If you run the same cookie notice on all subdomains, define the main domain starting with a .
+  implicit: true, //Accept cookies on scroll
+  statement: 'https://pdpa.msu.ac.th/cookie-policy/', //Link to your cookie statement page
+  performance: ['JSESSIONID'], //Cookies in the performance category.
+  analytics: ['ga'], //Cookies in the analytics category.
+  marketing: ['SSID'] //Cookies in the marketing category.
+});
+</script>
+<script type="text/javascript">
+  document.addEventListener('gdprCookiesEnabled', function (e) {
+    if(e.detail.marketing) { //checks if marketing cookies are enabled
+      //facebook pixel code
+    }
+  });
+</script>
+</body>
+</html>

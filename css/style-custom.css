@@ -1,0 +1,460 @@
+
+#box-service{
+	margin-right: 5px; margin-left: 3px;
+}
+
+#nav-for-mobile{
+	display: none;
+}
+
+#nav-for-mobile li{
+	display: inline-block;
+}
+
+@media (max-width: 350px) {
+  #nav-logos{
+  	display: none;
+  }
+
+  #inSlider{
+  	display: none;
+  }
+
+  #box-service{
+  	margin-top: 80px;
+  	display: inline-block;
+  }
+
+  #service-right{
+  	display: none;
+  }
+
+  #nav-for-mobile{
+	display: inline-block;
+  }
+
+  #form-search{
+  	margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+ @media (max-width: 400px) {
+  #nav-logos{
+  	display: none;
+  }
+
+  #inSlider{
+  	display: none;
+  }
+
+  #box-service{
+  	margin-top: 80px;
+  	display: inline-block;
+  }
+  #service-right{
+  	display: none;
+  }
+
+  #nav-for-mobile{
+	display: inline-block;
+  }
+  #form-search{
+  	margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+ @media (max-width: 450px) {
+  #nav-logos{
+  	display: none;
+  }
+
+  #inSlider{
+  	display: none;
+  }
+  #box-service{
+  	margin-top: 80px;
+  	display: inline-block;
+  }
+  #service-right{
+  	display: none;
+  }
+
+  #nav-for-mobile{
+	display: inline-block;
+  }
+  #form-search{
+  	margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+ @media (max-width: 500px) {
+  #nav-logos{
+  	display: none;
+  }
+
+  #inSlider{
+  	display: none;
+  }
+  #box-service{
+  	margin-top: 80px;
+  	display: inline-block;
+  }
+  #service-right{
+  	display: none;
+  }
+ 
+  #nav-for-mobile{
+	display: inline-block;
+  }
+  #form-search{
+  	margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+ @media (max-width: 550px) {
+  #nav-logos{
+  	display: none;
+  }
+
+  #inSlider{
+  	display: none;
+  }
+  #box-service{
+  	margin-top: 80px;
+  	display: inline-block;
+  }
+  #service-right{
+  	display: none;
+  }
+
+  #nav-for-mobile{
+	display: inline-block;
+  }
+  #form-search{
+  	margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+ @media (max-width: 600px) {
+  #nav-logos{
+  	display: none;
+  }
+
+  #inSlider{
+  	display: none;
+  }
+  #box-service{
+  	margin-top: 80px;
+  	display: inline-block;
+  }
+  #service-right{
+  	display: none;
+  }
+
+  #nav-for-mobile{
+	display: inline-block;
+  }
+  #form-search{
+  	margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+
+  @media (max-width: 650px) {
+  #nav-logos{
+  	display: none;
+  }
+
+  #inSlider{
+  	display: none;
+  }
+  #box-service{
+  	margin-top: 80px;
+  	display: inline-block;
+  }
+  #service-right{
+  	display: none;
+  }
+  #nav-for-mobile{
+	display: inline-block;
+  }
+  #form-search{
+  	margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+  @media (max-width: 700px) {
+  #nav-logos{
+  	display: none;
+  }
+
+  #inSlider{
+  	display: none;
+  }
+  #box-service{
+  	margin-top: 80px;
+  	display: inline-block;
+  }
+  #service-right{
+  	display: none;
+  }
+  #nav-for-mobile{
+	display: inline-block;
+  }
+  #form-search{
+  	margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+  @media (max-width: 750px) {
+  #nav-logos{
+  	display: none;
+  }
+
+  #inSlider{
+  	display: none;
+  }
+  #box-service{
+  	margin-top: 80px;
+  	display: inline-block;
+  }
+  #service-right{
+  	display: none;
+  }
+  #nav-for-mobile{
+	display: inline-block;
+  }
+  #form-search{
+  	margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+   @media (max-width: 800px) {
+  #nav-logos{
+  	display: none;
+  }
+
+  #inSlider{
+  	display: none;
+  }
+  #box-service{
+  	margin-top: 80px;
+  	display: inline-block;
+  }
+  #service-right{
+  	display: none;
+  }
+  #nav-for-mobile{
+	display: inline-block;
+  }
+  #form-search{
+  	margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+   @media (max-width: 850px) {
+  #nav-logos{
+  	display: none;
+  }
+
+  #inSlider{
+  	display: none;
+  }
+  #box-service{
+  	margin-top: 80px;
+  	display: inline-block;
+  }
+  #service-right{
+  	display: none;
+  }
+  #nav-for-mobile{
+	display: inline-block;
+  }
+  #form-search{
+  	margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+   @media (max-width: 900px) {
+  #nav-logos{
+  	display: none;
+  }
+
+  #inSlider{
+  	display: none;
+  }
+  #box-service{
+  	margin-top: 80px;
+  	display: inline-block;
+  }
+  #service-right{
+  	display: none;
+  }
+
+  #nav-for-mobile{
+	display: inline-block;
+  }
+  #form-search{
+  	margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+    @media (max-width: 950px) {
+  #nav-logos{
+    display: none;
+  }
+
+  #inSlider{
+    display: none;
+  }
+  #box-service{
+    margin-top: 80px;
+    display: inline-block;
+  }
+  #service-right{
+    display: none;
+  }
+
+  #nav-for-mobile{
+  display: inline-block;
+  }
+  #form-search{
+    margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+    @media (max-width: 1000px) {
+  #nav-logos{
+    display: none;
+  }
+
+  #inSlider{
+    display: none;
+  }
+  #box-service{
+    margin-top: 80px;
+    display: inline-block;
+  }
+  #service-right{
+    display: none;
+  }
+
+  #nav-for-mobile{
+  display: inline-block;
+  }
+  #form-search{
+    margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+     @media (max-width: 1050px) {
+  #nav-logos{
+    display: none;
+  }
+
+  #inSlider{
+    display: none;
+  }
+  #box-service{
+    margin-top: 80px;
+    display: inline-block;
+  }
+  #service-right{
+    display: none;
+  }
+
+  #nav-for-mobile{
+  display: inline-block;
+  }
+  #form-search{
+    margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
+
+     @media (max-width: 1100px) {
+  #nav-logos{
+    display: none;
+  }
+
+  #inSlider{
+    display: none;
+  }
+  #box-service{
+    margin-top: 80px;
+    display: inline-block;
+  }
+  #service-right{
+    display: none;
+  }
+
+  #nav-for-mobile{
+  display: inline-block;
+  }
+  #form-search{
+    margin-bottom: 10px;
+  }
+  #nav-cart{
+    margin-top: 25px;
+  }
+
+ }
